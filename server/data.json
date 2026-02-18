@@ -5,5 +5,945 @@
     "translation": "Fazer",
     "caseUses": "i make cake in my new house",
     "relatedIds": []
+  },
+  {
+    "id": "466d7797-0e6e-4c05-9e69-74668f0d5093",
+    "word": "Everyone",
+    "translation": "Todos",
+    "pronunciation": "/ˈɛv.ɹi.wʌn/",
+    "caseUses": "Every person.",
+    "relatedIds": []
+  },
+  {
+    "id": "a35ea97e-c86a-4942-a915-889bf34cba63",
+    "word": "Someone",
+    "translation": "Alguém",
+    "pronunciation": "/ˈsʌmwʌn/",
+    "caseUses": "Do you need a gift for that special someone?",
+    "relatedIds": []
+  },
+  {
+    "id": "04db58b4-35cc-4970-8733-e486b93cc2f5",
+    "word": "No one",
+    "translation": "Nenhuma",
+    "pronunciation": "/ˈnəʊ wʌn/",
+    "caseUses": "We went to the store but no one was there.",
+    "relatedIds": []
+  },
+  {
+    "id": "a6cfe55e-9547-403a-951b-c9a54d80d3ba",
+    "word": "Everywhere",
+    "translation": "Em todo o lado",
+    "pronunciation": "/ɛv.ɹi.(h)weə(ɹ)/",
+    "caseUses": "He delivers the mail everywhere on this street.",
+    "relatedIds": []
+  },
+  {
+    "id": "97e389d5-0fef-4111-80e4-655edbdbfdd2",
+    "word": "Somewhere",
+    "translation": "Algum lugar",
+    "pronunciation": "/ˈsʌm.hweːɹ/",
+    "caseUses": "I must have left my glasses somewhere.",
+    "relatedIds": []
+  },
+  {
+    "id": "00c0555f-60a7-4a0b-b032-60262cf2873f",
+    "word": "Anywhere",
+    "translation": "Em qualquer lugar",
+    "pronunciation": "/ˈɛn.iː.(h)wɛə(ɹ)/",
+    "caseUses": "I don't know where I left my keys. They could be anywhere.",
+    "relatedIds": []
+  },
+  {
+    "id": "8b304146-1571-4e22-ae8b-df051d6a276b",
+    "word": "No where",
+    "translation": "Nenhum lugar",
+    "pronunciation": "/ˈnəʊ.wɛə/",
+    "caseUses": "They went on a cruise to nowhere.",
+    "relatedIds": []
+  },
+  {
+    "id": "7aec145e-9f1a-4a57-83f5-7d019024ae43",
+    "word": "Everything",
+    "translation": "Tudo",
+    "pronunciation": "/ˈɛvɹiθɪŋ/",
+    "caseUses": "I checked the list again and everything is done.",
+    "relatedIds": []
+  },
+  {
+    "id": "10f0026d-a71f-435d-864c-ee1616e49613",
+    "word": "Something",
+    "translation": "Qualquer coisa",
+    "pronunciation": "/ˈsamθɪŋ/",
+    "caseUses": "The baby looks something like his father.",
+    "relatedIds": []
+  },
+  {
+    "id": "2fd171dd-a427-48c9-9f6a-263e25001b23",
+    "word": "Anything",
+    "translation": "Qualquer coisa",
+    "pronunciation": "/ˈɛ.nə.θɪŋ/",
+    "caseUses": "I would not do it for anything.",
+    "relatedIds": []
+  },
+  {
+    "id": "90782379-7c80-480d-9ef9-09d1112868ad",
+    "word": "Nothing",
+    "translation": "Nada",
+    "pronunciation": "/ˈnʌθɪŋ/",
+    "caseUses": "You're nothing to me now!",
+    "relatedIds": []
+  },
+  {
+    "id": "4482d730-ac80-4cb2-a4d6-05a2f060070a",
+    "word": "Wherever",
+    "translation": "Onde quer que",
+    "pronunciation": "/wɛəˈɹɛvə/",
+    "caseUses": "Wherever have you been all my life?",
+    "relatedIds": []
+  },
+  {
+    "id": "8744aa22-aa43-43d5-a2f5-aa11b38ff394",
+    "word": "Lose",
+    "translation": "Perder",
+    "pronunciation": "/luːz/",
+    "caseUses": "He lost his hearing in the explosion.",
+    "relatedIds": []
+  },
+  {
+    "id": "b3a77f89-0869-4f81-ad45-1c6d66741df1",
+    "word": "Facility",
+    "translation": "Facilidade",
+    "pronunciation": "/fəˈsɪlɪti/",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "2e8b92d6-8916-4993-9b1f-a5902f9b77f0",
+    "word": "Sense",
+    "translation": "Senso",
+    "pronunciation": "/sɛn(t)s/",
+    "caseUses": "a sense of security",
+    "relatedIds": []
+  },
+  {
+    "id": "1db88eeb-6339-4628-aa2b-6e6d56dd2bce",
+    "word": "Keep",
+    "translation": "Manter",
+    "pronunciation": "/kiːp/",
+    "caseUses": "He works as a cobbler's apprentice for his keep.",
+    "relatedIds": []
+  },
+  {
+    "id": "4e407f2c-f544-4d87-9005-e83551584237",
+    "word": "Nearby",
+    "translation": "Nas proximidades",
+    "pronunciation": "",
+    "caseUses": "He stopped at a nearby store for some groceries.",
+    "relatedIds": []
+  },
+  {
+    "id": "74afda0d-eeac-4dff-be6c-8a34c404ad61",
+    "word": "Far",
+    "translation": "Distante",
+    "pronunciation": "/fɑː/",
+    "caseUses": "He went to a far land.",
+    "relatedIds": []
+  },
+  {
+    "id": "6b1eaf80-d315-465f-a612-5d9e997e664b",
+    "word": "Wondering",
+    "translation": "Imaginando",
+    "pronunciation": "/ˈwʌndəɹɪŋ/",
+    "caseUses": "He wondered whether penguins could fly. She had wondered this herself sometimes.",
+    "relatedIds": []
+  },
+  {
+    "id": "10114b89-df6a-4a93-9e29-5c46ae5a1bbd",
+    "word": "Lost",
+    "translation": "Perdido",
+    "pronunciation": "/lɒst/",
+    "caseUses": "He lost his hearing in the explosion.",
+    "relatedIds": []
+  },
+  {
+    "id": "16442e5e-524f-4175-968e-3ce22930ae89",
+    "word": "Due",
+    "translation": "Devido",
+    "pronunciation": "/dʒʉː/",
+    "caseUses": "Give him his due — he is a good actor.",
+    "relatedIds": []
+  },
+  {
+    "id": "76d0c239-7f6d-4b91-a86a-7050ff721811",
+    "word": "Deadline",
+    "translation": "Prazo final",
+    "pronunciation": "/ˈdɛdˌlaɪn/",
+    "caseUses": "I must make this deadline or my boss will kill me!",
+    "relatedIds": []
+  },
+  {
+    "id": "815daeea-7943-4e5d-ae0f-6ae5229e62f1",
+    "word": "Due on",
+    "translation": "Vencimento em",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "439cac64-9038-42f9-a395-8ac166d91958",
+    "word": "Due By",
+    "translation": "Devido a",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "74a64530-acc4-4371-af38-37af8dec2230",
+    "word": "Learning",
+    "translation": "Aprendizagem",
+    "pronunciation": "/ˈlɜːnɪŋ/",
+    "caseUses": "learn from one's mistakes",
+    "relatedIds": []
+  },
+  {
+    "id": "5fde397a-cfb8-42c2-9364-4861db56b5e8",
+    "word": "Beginning",
+    "translation": "Começando",
+    "pronunciation": "/bɪˈɡɪn.ɪŋ/",
+    "caseUses": "What was the beginning of the dispute?",
+    "relatedIds": []
+  },
+  {
+    "id": "f241d01f-a63e-43d6-ac4b-3c900c8e7ea0",
+    "word": "Early",
+    "translation": "Cedo",
+    "pronunciation": "/ˈɜː.li/",
+    "caseUses": "at eleven, we went for an early lunch;  she began reading at an early age;",
+    "relatedIds": []
+  },
+  {
+    "id": "36a062fe-54fc-4562-92f7-d7516dec8c3a",
+    "word": "Took",
+    "translation": "Pegou",
+    "pronunciation": "/tuːk/",
+    "caseUses": "I'll take that plate off the table.",
+    "relatedIds": [
+      "30a55d3b-1be3-42eb-abe3-ff3a3cdea6b5"
+    ]
+  },
+  {
+    "id": "30a55d3b-1be3-42eb-abe3-ff3a3cdea6b5",
+    "word": "Take",
+    "translation": "Pegue",
+    "pronunciation": "/teɪk/",
+    "caseUses": "What's your take on this issue, Fred?",
+    "relatedIds": []
+  },
+  {
+    "id": "311f6d2c-6ff4-4a59-9270-16ca1661ec6f",
+    "word": "Lens",
+    "translation": "Lente",
+    "pronunciation": "/lɛnz/",
+    "caseUses": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+    "relatedIds": []
+  },
+  {
+    "id": "003ae4ed-f2e6-43ea-b517-0d364b26e077",
+    "word": "Both",
+    "translation": "Ambos",
+    "pronunciation": "/bəʊθ/",
+    "caseUses": "\"Did you want this one or that one?\" — \"Give me both.\"",
+    "relatedIds": []
+  },
+  {
+    "id": "53e1d3ad-1142-4ea0-aa81-6cc8c2629008",
+    "word": "As far",
+    "translation": "Até onde",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "08f5815f-eaa5-47b5-9a87-4941afe4dc42",
+    "word": "Anything else",
+    "translation": "Mais alguma coisa... ",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "7421c7a7-770d-4732-a97d-5b8e84db6f3a",
+    "word": "Safe",
+    "translation": "Seguro",
+    "pronunciation": "/seɪf/",
+    "caseUses": "You’ll be safe here.",
+    "relatedIds": []
+  },
+  {
+    "id": "d551b6e8-5d08-40c5-a15e-3d621a1096b3",
+    "word": "Feels",
+    "translation": "Sentir",
+    "pronunciation": "/fiːlz/",
+    "caseUses": "emotional crisis",
+    "relatedIds": []
+  },
+  {
+    "id": "4ee64fa0-4feb-4f5e-9bdf-1c9da840b029",
+    "word": "Heather",
+    "translation": "Mesclado",
+    "pronunciation": "/ˈhɛðə/",
+    "caseUses": "An evergreen plant, Calluna vulgaris, with spiky leaves and small purple, pink, or white flowers.",
+    "relatedIds": []
+  },
+  {
+    "id": "4ecebd5e-1a2b-4499-8aa4-711d87596148",
+    "word": "Goals",
+    "translation": "Objetivos/Metas",
+    "pronunciation": "/ɡɔʊlz/",
+    "caseUses": "My lifelong goal is to get into a Hollywood movie.",
+    "relatedIds": []
+  },
+  {
+    "id": "47722728-11c8-495f-ad2a-0bb9389692d0",
+    "word": "Exposing",
+    "translation": "Expondo",
+    "pronunciation": "",
+    "caseUses": "To reveal, uncover, make visible, bring to light, introduce to.",
+    "relatedIds": []
+  },
+  {
+    "id": "064c87c2-e6f6-40a7-8913-be95e7e0a111",
+    "word": "Squeeze",
+    "translation": "Encaixar",
+    "pronunciation": "/skwiːz/",
+    "caseUses": "I'm in a tight squeeze right now when it comes to my free time.",
+    "relatedIds": []
+  },
+  {
+    "id": "91b22281-b280-4d87-8f9f-c832dff0ef6a",
+    "word": "Couple",
+    "translation": "Casal",
+    "pronunciation": "/ˈkʌpəl/",
+    "caseUses": "I've coupled our system to theirs.",
+    "relatedIds": []
+  },
+  {
+    "id": "08ee373a-eb5d-4684-b06d-b30a77afb7d7",
+    "word": "Disclaimers",
+    "translation": "Avisos legais",
+    "pronunciation": "/dɪsˈkleɪm.əz/",
+    "caseUses": "One who disclaims, disowns, or renounces.",
+    "relatedIds": []
+  },
+  {
+    "id": "d4284da4-0f38-48ec-adf4-73f8583c4b42",
+    "word": "Footnotes",
+    "translation": "Notas de rodapé",
+    "pronunciation": "",
+    "caseUses": "consult the footnotes for more details",
+    "relatedIds": []
+  },
+  {
+    "id": "e1604d25-66f4-4e8b-a960-f011d507a142",
+    "word": "Made",
+    "translation": "Efetuado",
+    "pronunciation": "/meɪd/",
+    "caseUses": "A grub or maggot.",
+    "relatedIds": [
+      "7ca53c78-9d61-4875-8211-ef2ff14032fc"
+    ]
+  },
+  {
+    "id": "3d5dfdfc-4569-4a8e-8497-1d7c8094903d",
+    "word": "Otherwise",
+    "translation": "ou",
+    "pronunciation": "/ˈʌð.əˌwaɪz/",
+    "caseUses": "He said he didn’t do it, but the evidence was otherwise.",
+    "relatedIds": []
+  },
+  {
+    "id": "9cd98db4-350f-43b2-85a9-7c7538d1db8c",
+    "word": "Some",
+    "translation": "Alguns ",
+    "pronunciation": "/sɐm/",
+    "caseUses": "I guess he must have weighed some 90 kilos.",
+    "relatedIds": []
+  },
+  {
+    "id": "06195e58-da88-46ef-bbe2-8b5a2699e30f",
+    "word": "been",
+    "translation": "foi",
+    "pronunciation": "/biːn/",
+    "caseUses": "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey.",
+    "relatedIds": []
+  },
+  {
+    "id": "f263e512-7059-4201-8193-66bdf9f0c7d0",
+    "word": "be",
+    "translation": "ser",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "1b327752-42ff-4cfe-be1f-d09062aae1b0",
+    "word": "wearer",
+    "translation": "usuário",
+    "pronunciation": "",
+    "caseUses": "On Saint Patrick's day I put on my green shirt and join the wearers of the green.",
+    "relatedIds": []
+  },
+  {
+    "id": "25ed2370-1818-45c7-8277-288e5f8ddd4e",
+    "word": "Rest",
+    "translation": "Repouso",
+    "pronunciation": "/ɹɛst/",
+    "caseUses": "I need to get a good rest tonight; I was up late last night.",
+    "relatedIds": []
+  },
+  {
+    "id": "df707276-de58-44d8-b5f3-8a36e29347d4",
+    "word": "Spell",
+    "translation": "Soletrar",
+    "pronunciation": "/spɛl/",
+    "caseUses": "He cast a spell to cure warts.",
+    "relatedIds": []
+  },
+  {
+    "id": "1902de28-ba64-4842-a3c8-2ae3ec22a291",
+    "word": "Forget",
+    "translation": "Esquecer",
+    "pronunciation": "/fəˈɡɛt/",
+    "caseUses": "I have forgotten most of the things I learned in school.",
+    "relatedIds": []
+  },
+  {
+    "id": "797de2a2-0897-46ed-82f0-19846901258a",
+    "word": "Pay",
+    "translation": "Salário",
+    "pronunciation": "/peɪ/",
+    "caseUses": "Many employers have rules designed to keep employees from comparing their pays.",
+    "relatedIds": []
+  },
+  {
+    "id": "6ac56db4-91a9-4848-9fcd-0bbef934bfe2",
+    "word": "Target",
+    "translation": "Alvo",
+    "pronunciation": "/tɑːɡɪt/",
+    "caseUses": "Take careful aim at the target.",
+    "relatedIds": []
+  },
+  {
+    "id": "273a63e6-c499-430c-87ea-4a492677793b",
+    "word": "Worry",
+    "translation": "Preocupei-me",
+    "pronunciation": "/ˈwɒɹi/",
+    "caseUses": "I'm afflicted by worry throughout the night.",
+    "relatedIds": []
+  },
+  {
+    "id": "3b0cbe66-730a-4418-9622-af163043c612",
+    "word": "Young",
+    "translation": "Jovens",
+    "pronunciation": "/jʌŋ/",
+    "caseUses": "The young of today are well-educated.",
+    "relatedIds": []
+  },
+  {
+    "id": "5f71133d-874b-4d3c-8558-f191a5a9e32b",
+    "word": "Least",
+    "translation": "Pelo menos",
+    "pronunciation": "/list/",
+    "caseUses": "It was the least surprising thing.",
+    "relatedIds": []
+  },
+  {
+    "id": "975ab40d-345c-44eb-9d14-78dbf25df056",
+    "word": "Arrive",
+    "translation": "Chegar",
+    "pronunciation": "/əˈɹaɪv/",
+    "caseUses": "He arrived home for two days.",
+    "relatedIds": []
+  },
+  {
+    "id": "034603ad-1418-4085-b8d8-f2800c5e1f19",
+    "word": "Change",
+    "translation": "Alteração",
+    "pronunciation": "/tʃeɪndʒ/",
+    "caseUses": "The product is undergoing a change in order to improve it.",
+    "relatedIds": []
+  },
+  {
+    "id": "2b2a2f75-5c1f-4f76-b836-421859e8ccc9",
+    "word": "Allowed",
+    "translation": "Permitido",
+    "pronunciation": "/əˈlaʊd/",
+    "caseUses": "to allow a servant his liberty;  to allow a free passage;  to allow one day for rest",
+    "relatedIds": []
+  },
+  {
+    "id": "2a241eb7-8076-4e8f-af4c-f079d1cea124",
+    "word": "went",
+    "translation": "Formos",
+    "pronunciation": "/went/",
+    "caseUses": "The engine just won't go anymore.",
+    "relatedIds": []
+  },
+  {
+    "id": "90226350-d976-4d48-8ae0-7b8abf452ff0",
+    "word": "Bring",
+    "translation": "Trazer",
+    "pronunciation": "/ˈbɹɪŋ/",
+    "caseUses": "Waiter, please bring me a single malt whiskey.",
+    "relatedIds": []
+  },
+  {
+    "id": "c69783df-f48a-4721-b115-52ce2b66244a",
+    "word": "Tracking",
+    "translation": "Acompanhamento",
+    "pronunciation": "/ˈtɹækɪŋ/",
+    "caseUses": "My uncle spent all day tracking the deer, whose hoofprints were clear in the mud.",
+    "relatedIds": []
+  },
+  {
+    "id": "677f2533-f5c2-4774-b414-a4458d28e6ed",
+    "word": "Pregnant",
+    "translation": "Gravidez",
+    "pronunciation": "/ˈpɹɛɡnənt/",
+    "caseUses": "I went to the doctor and, guess what, I'm pregnant!",
+    "relatedIds": []
+  },
+  {
+    "id": "6fbce7c8-b990-4b8d-a28d-550be03c8c82",
+    "word": "Global intakes",
+    "translation": "Entradas globais",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "94352395-cdda-4006-904d-6a6f3db7e55c",
+    "word": "Awesome",
+    "translation": "Incrível",
+    "pronunciation": "/ˈɔːsəm/",
+    "caseUses": "pure awesome; made of awesome",
+    "relatedIds": []
+  },
+  {
+    "id": "ce6a5b36-2efc-4ddc-9201-d2c54f7ebd7d",
+    "word": "Should",
+    "translation": "Deveria",
+    "pronunciation": "/ʃʊd/",
+    "caseUses": "I hope that we shall win the game.",
+    "relatedIds": []
+  },
+  {
+    "id": "06893dea-2a34-4da6-b96f-bcb84bb6f576",
+    "word": "Found",
+    "translation": "Encontrado",
+    "pronunciation": "/faʊnd/",
+    "caseUses": "I found my car keys. They were under the couch.",
+    "relatedIds": []
+  },
+  {
+    "id": "116028ea-4a6d-4d2a-8dc4-d44999b46f27",
+    "word": "Look",
+    "translation": "Olhar",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "769635d4-c369-435d-a969-e83b25379c0d",
+    "word": "Mean",
+    "translation": "Médio",
+    "pronunciation": "/miːn/",
+    "caseUses": "Does she really mean what she said to him last night?",
+    "relatedIds": []
+  },
+  {
+    "id": "78413b41-5354-4735-babf-9ea6ed4aa3c7",
+    "word": "Happen",
+    "translation": "Acontecer",
+    "pronunciation": "/ˈhæpən/",
+    "caseUses": "Let me tell you how it happened.",
+    "relatedIds": []
+  },
+  {
+    "id": "ac0fd7e9-440c-4620-883a-97e7a4245867",
+    "word": "Also",
+    "translation": "E também:",
+    "pronunciation": "/ˈɔːl.səʊ/",
+    "caseUses": "They had porridge for breakfast, and also toast.",
+    "relatedIds": []
+  },
+  {
+    "id": "8464f011-adeb-45dd-85d3-92d736b4bf8c",
+    "word": "Concern",
+    "translation": "Preocupação",
+    "pronunciation": "/kənˈsɜːn/",
+    "caseUses": "Judy's eyes filled with concern as she listened to the news report.",
+    "relatedIds": []
+  },
+  {
+    "id": "c534a9e1-11f2-4c97-9395-d4dcb80161b1",
+    "word": "Demurrage",
+    "translation": "sobrestadia",
+    "pronunciation": "",
+    "caseUses": "(shipping) the detention of a ship or other freight vehicle, during delayed loading or unloading",
+    "relatedIds": []
+  },
+  {
+    "id": "1dfc81f1-8ccb-41e2-b910-7c91b4cc80d7",
+    "word": "However",
+    "translation": "contudo",
+    "pronunciation": "/hɑʊˈɛvə/",
+    "caseUses": "He told me not to do it. I, however, did it anyway. / I did it anyway, however. / (sometimes proscribed:) However, I did it anyway.",
+    "relatedIds": []
+  },
+  {
+    "id": "a3a07c18-9ce9-4865-8e58-6e24bcc62bf3",
+    "word": "Stories",
+    "translation": "Andares",
+    "pronunciation": "",
+    "caseUses": "For superstitious reasons, many buildings number their 13th storey as 14, bypassing 13 entirely.",
+    "relatedIds": []
+  },
+  {
+    "id": "099bf74e-4b67-4c62-93fd-5dc03bd03269",
+    "word": "Impacted",
+    "translation": "Impactado",
+    "pronunciation": "",
+    "caseUses": "When the hammer impacts the nail, it bends.",
+    "relatedIds": []
+  },
+  {
+    "id": "7bce4958-cca8-461d-8957-57a53508ff5b",
+    "word": "Hold",
+    "translation": "Preservar/Reserva/segurar",
+    "pronunciation": "/həʊld/",
+    "caseUses": "Keep a firm hold on the handlebars.",
+    "relatedIds": []
+  },
+  {
+    "id": "f17a4105-ad8e-44b3-8e42-2fd40078976e",
+    "word": "Until",
+    "translation": "Até",
+    "pronunciation": "/ənˈtɪl/",
+    "caseUses": "If you can wait until after my meeting with her, we'll talk then.",
+    "relatedIds": []
+  },
+  {
+    "id": "1db41ae8-4c1a-4fbb-abb2-104dd521d933",
+    "word": "Told",
+    "translation": "disse",
+    "pronunciation": "/tɔʊld/",
+    "caseUses": "All told, there were over a dozen.  Can you tell time on a clock?  He had untold wealth.",
+    "relatedIds": []
+  },
+  {
+    "id": "ac2a3614-c784-44fc-9ce0-a7932910f888",
+    "word": "Handle",
+    "translation": "Pega",
+    "pronunciation": "/ˈhæn.dl/",
+    "caseUses": "The daily handle of a Las Vegas casino is typically millions of dollars.",
+    "relatedIds": []
+  },
+  {
+    "id": "2624e215-338c-4212-a4c0-098e6694506f",
+    "word": "Give",
+    "translation": "Doe/Dar",
+    "pronunciation": "/ɡɪv/",
+    "caseUses": "There is no give in his dogmatic religious beliefs.",
+    "relatedIds": []
+  },
+  {
+    "id": "46102016-1212-400d-845c-1f9ad1f43bfe",
+    "word": "Occupinders",
+    "translation": "Ocupantes",
+    "pronunciation": "",
+    "caseUses": "",
+    "relatedIds": []
+  },
+  {
+    "id": "7302e85f-c586-44c3-8085-d2cb5d59385d",
+    "word": "Might",
+    "translation": "Poder",
+    "pronunciation": "/maɪt/",
+    "caseUses": "He pushed with all his might, but still it would not move.",
+    "relatedIds": []
+  },
+  {
+    "id": "f59deabb-6f64-49e5-93a0-a18415369110",
+    "word": "Toggle",
+    "translation": "Alternar",
+    "pronunciation": "/ˈtɒɡ.əl/",
+    "caseUses": "Clicking a button will alternately toggle its light on OR off.",
+    "relatedIds": []
+  },
+  {
+    "id": "eff34397-595c-4400-be42-be5571dba956",
+    "word": "Choosing",
+    "translation": "Escolhendo",
+    "pronunciation": "/ˈtʃuːzɪŋ/",
+    "caseUses": "I chose a nice ripe apple from the fruit bowl.",
+    "relatedIds": []
+  },
+  {
+    "id": "e6d7266f-870d-4f44-a71a-022b15fa2df1",
+    "word": "Under",
+    "translation": "Sob",
+    "pronunciation": "/ˈʊndə/",
+    "caseUses": "Ensure the patient is sufficiently under.",
+    "relatedIds": []
+  },
+  {
+    "id": "45a59315-69b3-4a03-81b0-334be298c8ca",
+    "word": "Fired",
+    "translation": "Demitido",
+    "pronunciation": "/ˈfaɪəd/",
+    "caseUses": "If you fire the pottery at too high a temperature, it may crack.",
+    "relatedIds": []
+  },
+  {
+    "id": "95a626c3-3167-48ee-bfa7-ae3647f3b162",
+    "word": "Must",
+    "translation": "Obrigação",
+    "pronunciation": "",
+    "caseUses": "If you'll be out all day, a map is a must.",
+    "relatedIds": []
+  },
+  {
+    "id": "601ee88b-3d61-41bd-9606-059b1dc05f42",
+    "word": "Reach",
+    "translation": "Alcance",
+    "pronunciation": "/ɹiːt͡ʃ/",
+    "caseUses": "The fruit is beyond my reach.",
+    "relatedIds": []
+  },
+  {
+    "id": "7b9dee39-9d74-4129-9cbb-f3335372a44a",
+    "word": "Amount",
+    "translation": "Montante/Quantia",
+    "pronunciation": "/əˈmaʊnt/",
+    "caseUses": "The amount of atmospheric pollution threatens a health crisis.",
+    "relatedIds": []
+  },
+  {
+    "id": "94959052-bf13-4897-8e9c-cf3e18adf791",
+    "word": "Side",
+    "translation": "Lado",
+    "pronunciation": "/saɪd/",
+    "caseUses": "A square has four sides.",
+    "relatedIds": []
+  },
+  {
+    "id": "4e5a113d-251e-4ff1-b92c-022ebac87131",
+    "word": "Smaller",
+    "translation": "Pequeno / Menor",
+    "pronunciation": "/ˈsmɑlɚ/",
+    "caseUses": "A small group.",
+    "relatedIds": []
+  },
+  {
+    "id": "69494bd0-ced3-4960-9b6d-b14ccf455b12",
+    "word": "Around",
+    "translation": "Por ai, ao redor",
+    "pronunciation": "/əˈɹaʊnd/",
+    "caseUses": "Is Clare around today?",
+    "relatedIds": []
+  },
+  {
+    "id": "14c273e4-e852-4d6d-a01e-f556f1248d4d",
+    "word": "Peer",
+    "translation": "Avaliador",
+    "pronunciation": "/pɪə/",
+    "caseUses": "A look; a glance.",
+    "relatedIds": []
+  },
+  {
+    "id": "0d536f91-7d5c-43d6-ae71-fc652fadffb6",
+    "word": "Inside",
+    "translation": "Interior",
+    "pronunciation": "/ɪnˈsaɪd/",
+    "caseUses": "The inside of the building has been extensively restored.",
+    "relatedIds": []
+  },
+  {
+    "id": "cb2d0798-fd57-412f-9aa6-961495bd4e04",
+    "word": "Itself",
+    "translation": "o próprio",
+    "pronunciation": "/ɪtˈsɛlf/",
+    "caseUses": "The door closed by itself",
+    "relatedIds": []
+  },
+  {
+    "id": "f9179bad-f599-4612-a072-e9850093b897",
+    "word": "Same",
+    "translation": "O mesmo",
+    "pronunciation": "/seɪm/",
+    "caseUses": "Are you the same person who phoned me yesterday?",
+    "relatedIds": []
+  },
+  {
+    "id": "fbe1eb1d-f3c4-43b0-b687-3107b02ff62b",
+    "word": "Able",
+    "translation": "Capaz",
+    "pronunciation": "/ˈeɪ.bl̩/",
+    "caseUses": "I’ll see you as soon as I’m able.",
+    "relatedIds": []
+  },
+  {
+    "id": "280591c8-99f1-4163-8cdf-26d76aae6c2c",
+    "word": "Effort",
+    "translation": "Esforço",
+    "pronunciation": "/ˈɛfət/",
+    "caseUses": "It took a lot of effort to find a decent-sized, fully-furnished apartment within walking distance of the office.   He made a conscious effort to not appear affected by the stories in the paper.",
+    "relatedIds": []
+  },
+  {
+    "id": "01ea7014-2fc9-49fc-9b4b-f3dcd527f26f",
+    "word": "Fees",
+    "translation": "Encargos",
+    "pronunciation": "/fiːz/",
+    "caseUses": "(feudal law) A right to the use of a superior's land, as a stipend for services to be performed; also, the land so held; a fief.",
+    "relatedIds": []
+  },
+  {
+    "id": "26d8fc97-7faa-46a4-9b96-042e661c4906",
+    "word": "Soon",
+    "translation": "Pouco tempo depois / Breve",
+    "pronunciation": "/suːn/",
+    "caseUses": "I need the soonest date you have available.",
+    "relatedIds": []
+  },
+  {
+    "id": "0f28a800-d5d3-496c-b359-10deaf8e846a",
+    "word": "Handling",
+    "translation": "Manuseio",
+    "pronunciation": "/ˈhændlɪŋ/",
+    "caseUses": "A touching, controlling, managing, using, take care of, etc., with the hand or hands, or as with the hands.",
+    "relatedIds": []
+  },
+  {
+    "id": "1aadf004-0c82-4580-b5dc-de05088afe8d",
+    "word": "Changing",
+    "translation": "A alterar",
+    "pronunciation": "/ˈtʃeɪndʒɪŋ/",
+    "caseUses": "The tadpole changed into a frog.   Stock prices are constantly changing.",
+    "relatedIds": []
+  },
+  {
+    "id": "6ae2a77d-ed4b-4d50-8d12-09a743b4dbf2",
+    "word": "Taxonomy",
+    "translation": "Taxonomia",
+    "pronunciation": "/tækˈsɒnəmi/",
+    "caseUses": "The science or the technique used to make a classification.",
+    "relatedIds": []
+  },
+  {
+    "id": "b4464bbe-a87c-4d85-9365-e37dc7427687",
+    "word": "Poorly",
+    "translation": "Mal",
+    "pronunciation": "/ˈpɔː(r)li/",
+    "caseUses": "to live poorly",
+    "relatedIds": []
+  },
+  {
+    "id": "d4e7e3c1-d14a-4e6f-b709-f4fe13abfd49",
+    "word": "Spike",
+    "translation": "Spinho",
+    "pronunciation": "/spaɪk/",
+    "caseUses": "The trap was lined with spikes.",
+    "relatedIds": []
+  },
+  {
+    "id": "a5e46728-4330-40be-824c-f4716498351f",
+    "word": "Mostly",
+    "translation": "Quase na totalidade",
+    "pronunciation": "/ˈməʊstli/",
+    "caseUses": "They're mostly good people, although they have made a few mistakes.",
+    "relatedIds": []
+  },
+  {
+    "id": "86a11477-7d1c-4a7e-933a-1de7a6a91931",
+    "word": "Avoid",
+    "translation": "Evitar",
+    "pronunciation": "/əˈvɔɪd/",
+    "caseUses": "I try to avoid the company of gamblers.",
+    "relatedIds": []
+  },
+  {
+    "id": "240e3428-5ea6-4861-b8b8-d348fb11c486",
+    "word": "Course",
+    "translation": "Curso",
+    "pronunciation": "/kɔːs/",
+    "caseUses": "The normal course of events seems to be just one damned thing after another.",
+    "relatedIds": []
+  },
+  {
+    "id": "c573db31-443f-4516-8393-7c4be96258fc",
+    "word": "Standalone",
+    "translation": "Autônomo",
+    "pronunciation": "",
+    "caseUses": "They offer an inexpensive add-on for a computer, or a stand-alone system with all the functions built in.",
+    "relatedIds": []
+  },
+  {
+    "id": "a22e3f76-37f0-47bd-9613-0a97708fab18",
+    "word": "Bullet",
+    "translation": "Listagem Eletrônica",
+    "pronunciation": "/ˈbʊl.ɪt/",
+    "caseUses": "John's not going to any of his top schools; he got a bullet from the last of them yesterday.",
+    "relatedIds": []
+  },
+  {
+    "id": "08222df6-597f-43f4-af3c-de195e39b793",
+    "word": "Means",
+    "translation": "Meios",
+    "pronunciation": "/miːnz/",
+    "caseUses": "Does she really mean what she said to him last night?",
+    "relatedIds": []
+  },
+  {
+    "id": "3dc1d862-97eb-4fda-bc04-a7b8244608b0",
+    "word": "Newer",
+    "translation": "Mais recente",
+    "pronunciation": "/ˈn(j)uː.ɚ/",
+    "caseUses": "This is a new scratch on my car!   The band just released a new album.",
+    "relatedIds": []
+  },
+  {
+    "id": "9c0ca02c-961d-4014-92dd-4b42580cb015",
+    "word": "Matter",
+    "translation": "Importância",
+    "pronunciation": "/ˈmætə/",
+    "caseUses": "What's the matter?;   state matters",
+    "relatedIds": []
+  },
+  {
+    "id": "ceb26f2a-49ee-418e-adc7-e00985f783a3",
+    "word": "Slope",
+    "translation": "Inclinação",
+    "pronunciation": "/sləʊp/",
+    "caseUses": "I had to climb a small slope to get to the site.",
+    "relatedIds": []
+  },
+  {
+    "id": "335460d7-0f9d-4392-a55f-b93c29866599",
+    "word": "Resents",
+    "translation": "Reenviado",
+    "pronunciation": "",
+    "caseUses": "The bride greatly resented being left at the church.",
+    "relatedIds": []
+  },
+  {
+    "id": "450ac750-d8d0-47a9-a5f3-eafc1d6a4c92",
+    "word": "Behavior",
+    "translation": "Comportamento",
+    "pronunciation": "[bɪˈheɪvjə]",
+    "caseUses": "He was on his best behavior when her family visited.",
+    "relatedIds": []
   }
 ]

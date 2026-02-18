@@ -12,23 +12,29 @@ Um sistema moderno de biblioteca de palavras construído com React e NodeJS.
 ## Como Executar
 
 ### Pré-requisitos
-- Node.js instalado.
+- Docker e Docker Compose instalados.
 
-### Passo 1: Iniciar o Servidor (Backend)
+### Usando Docker Compose (Recomendado)
 ```bash
-cd server
-npm install
-npm start
+docker compose up --build
 ```
-O servidor rodará em `http://localhost:5000`.
 
-### Passo 2: Iniciar o Frontend (React)
-```bash
-cd client
-npm install
-npm run dev
-```
-O frontend rodará em `http://localhost:3000`.
+- **Frontend**: `http://localhost:3148`
+- **Backend**: `http://localhost:4830`
+
+### Manualmente (Sem Docker)
+
+1. **Backend**: 
+   ```bash
+   cd server && npm install && npm start
+   ```
+   (Rodará em `http://localhost:4830`)
+
+2. **Frontend**:
+   ```bash
+   cd client && npm install && npm run dev
+   ```
+   (Rodará em `http://localhost:3148`)
 
 ## Estrutura do Projeto
 - `server/`: API em Node/Express com banco de dados em arquivo JSON.

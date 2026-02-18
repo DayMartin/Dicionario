@@ -1,0 +1,20 @@
+services:
+  backend:
+    build: ./server
+    ports:
+      - "4830:4830"
+    volumes:
+      - ./server:/app
+      - /app/node_modules
+    environment:
+      - PORT=4830
+
+  frontend:
+    build: ./client
+    ports:
+      - "3148:3148"
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    depends_on:
+      - backend

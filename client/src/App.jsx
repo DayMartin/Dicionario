@@ -15,6 +15,7 @@ const App = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [editingWord, setEditingWord] = useState(null);
     const [view, setView] = useState('list'); // 'list' or 'study'
+    const [selectedLetter, setSelectedLetter] = useState(null);
     const [isAutoFilling, setIsAutoFilling] = useState(false);
 
     // Form State
@@ -42,11 +43,28 @@ const App = () => {
     };
 
     const filteredWords = useMemo(() => {
-        return words.filter(w =>
-            w.word.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            w.translation.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-    }, [words, searchTerm]);
+        let filtered = words;
+
+        // Filter by Search Term
+        if (searchTerm) {
+            filtered = filtered.filter(w =>
+                w.word.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                w.translation.toLowerCase().includes(searchTerm.toLowerCase())
+            );
+        }
+
+        // Filter by Initial Letter
+        if (selectedLetter) {
+            filtered = filtered.filter(w =>
+                w.word.toLowerCase().startsWith(selectedLetter.toLowerCase())
+            );
+        }
+
+        // Sort alphabetically
+        return [...filtered].sort((a, b) => a.word.localeCompare(b.word));
+    }, [words, searchTerm, selectedLetter]);
+
+    const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
     const handleAutoFill = async () => {
         if (!formData.word) {
@@ -197,6 +215,24 @@ const App = () => {
                         <button className="btn btn-primary" onClick={() => openModal()}>
                             <Plus size={20} /> Adicionar Palavra
                         </button>
+                    </div>
+
+                    <div className="alphabet-filter">
+                        <button
+                            className={`letter-btn ${selectedLetter === null ? 'active' : ''}`}
+                            onClick={() => setSelectedLetter(null)}
+                        >
+                            Todos
+                        </button>
+                        {alphabet.map(letter => (
+                            <button
+                                key={letter}
+                                className={`letter-btn ${selectedLetter === letter ? 'active' : ''}`}
+                                onClick={() => setSelectedLetter(selectedLetter === letter ? null : letter)}
+                            >
+                                {letter}
+                            </button>
+                        ))}
                     </div>
 
                     <div className="word-list-container">
