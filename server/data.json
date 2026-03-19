@@ -945,5 +945,173 @@
     "pronunciation": "[bɪˈheɪvjə]",
     "caseUses": "He was on his best behavior when her family visited.",
     "relatedIds": []
+  },
+  {
+    "id": "feb540c2-701a-42ce-9f94-3f74229e4ad8",
+    "word": "Kind",
+    "translation": "Tipo",
+    "pronunciation": "/kaɪnd/",
+    "caseUses": "This is a strange kind of tobacco.",
+    "relatedIds": []
+  },
+  {
+    "id": "67f2a65c-10d8-4871-b9d3-c9e36b1793c5",
+    "word": "challenges",
+    "translation": "challenges",
+    "pronunciation": "",
+    "caseUses": "We challenged the boys next door to a game of football.",
+    "relatedIds": []
+  },
+  {
+    "id": "13f3b390-1308-407a-a4ff-097b71ab103e",
+    "word": "Guess",
+    "translation": "Adivinhar",
+    "pronunciation": "/ɡɛs/",
+    "caseUses": "He who guesses the riddle shall have the ring.",
+    "relatedIds": []
+  },
+  {
+    "id": "1a418bfd-5191-4ed8-a376-62297a5ca9cd",
+    "word": "chair",
+    "translation": "Cadeira",
+    "pronunciation": "/t͡ʃɛə(ɹ)/",
+    "caseUses": "All I need to weather a snowstorm is hot coffee, a warm fire, a good book and a comfortable chair.",
+    "relatedIds": []
+  },
+  {
+    "id": "e2f4ca73-a4c4-4f4e-a4bc-6b3ed3c1c688",
+    "word": "Fair",
+    "translation": "Justo",
+    "pronunciation": "/feː(ə)/",
+    "caseUses": "When will we learn to distinguish between the fair and the foul?",
+    "relatedIds": []
+  },
+  {
+    "id": "4daaeaa4-cf23-42dc-bf7a-c7054f472f64",
+    "word": "triggered",
+    "translation": "desencadeado",
+    "pronunciation": "",
+    "caseUses": "The controversial article triggered a deluge of angry letters from readers.",
+    "relatedIds": []
+  },
+  {
+    "id": "fb32e553-7f7d-4f6d-92dd-8e8ab4206a71",
+    "word": "whether",
+    "translation": "se",
+    "pronunciation": "/ˈwɛðə(ɹ)/",
+    "caseUses": "He chose the correct answer, but I don't know whether it was by luck or (whether it was) by skill.",
+    "relatedIds": []
+  },
+  {
+    "id": "d4f7f40d-9cdd-42d3-abb0-852930285d59",
+    "word": "making",
+    "translation": "a fazer",
+    "pronunciation": "/ˈmeɪkɪŋ/",
+    "caseUses": "As a child, he didn’t seem like a genius in the making.",
+    "relatedIds": []
+  },
+  {
+    "id": "abcbfb4a-cc84-449b-8f11-cbca1d02bcb4",
+    "word": "most",
+    "translation": "a maioria",
+    "pronunciation": "/ˈməʊst/",
+    "caseUses": "The most I can offer for the house is $150,000.",
+    "relatedIds": []
+  },
+  {
+    "id": "4cbf5c5e-a889-49cb-9868-77c0a52475cd",
+    "word": "straightforward",
+    "translation": "direto",
+    "pronunciation": "",
+    "caseUses": "Proceeding in a straight course or manner; not deviating.",
+    "relatedIds": []
+  },
+  {
+    "id": "70884460-be85-4cea-b10d-8d5918c728bd",
+    "word": "sells",
+    "translation": "vende",
+    "pronunciation": "/sɛlz/",
+    "caseUses": "This is going to be a tough sell.",
+    "relatedIds": []
+  },
+  {
+    "id": "278d8a8d-36b0-4a21-99a3-436e8043a87f",
+    "word": "uncertain",
+    "translation": "incerto",
+    "pronunciation": "/ʌnˈsɜːtən/",
+    "caseUses": "Tomorrow's weather is uncertain.",
+    "relatedIds": []
+  },
+  {
+    "id": "a2f19d99-f451-45da-81de-a62274966b41",
+    "word": "underlying",
+    "translation": "oculto, secreto",
+    "pronunciation": "",
+    "caseUses": "A stratum of clay underlies the surface gravel.",
+    "relatedIds": []
+  },
+  {
+    "id": "906c420f-294e-4cd9-ba9b-c179550dd185",
+    "word": "Anyway",
+    "translation": "De qualquer forma.",
+    "pronunciation": "/ˈɛniweɪ/",
+    "caseUses": "He didn't enjoy washing his car, but it was so dirty that he did it anyway.",
+    "relatedIds": []
+  },
+  {
+    "id": "ad218d31-fd88-4ee4-b0a7-760793616dcd",
+    "word": "Combined",
+    "translation": "Combinados:",
+    "pronunciation": "/kəmˈbaɪnd/",
+    "caseUses": "Combine the milk and the hot water in a large bowl.   I'm combining business and pleasure on this trip.",
+    "relatedIds": []
+  },
+  {
+    "id": "d3c8086b-c580-47e0-8f10-ef82c7da5679",
+    "word": "Priority",
+    "translation": "Prioridade",
+    "pronunciation": "/pɹaɪˈɒɹɨti/",
+    "caseUses": "He set his e-mail message's priority to high.",
+    "relatedIds": []
+  },
+  {
+    "id": "d10f1757-20fc-4642-a1be-af2f9df0089e",
+    "word": "Gotcha",
+    "translation": "Te Peguei.",
+    "pronunciation": "",
+    "caseUses": "Review the work thoroughly and make sure there are no gotchas.",
+    "relatedIds": []
+  },
+  {
+    "id": "dab5a5a1-8db5-4c4c-9da3-31ee9973e498",
+    "word": "LOoking",
+    "translation": "a olhar",
+    "pronunciation": "/ˈlʊkɪŋ/",
+    "caseUses": "The act of one who looks; a glance.",
+    "relatedIds": []
+  },
+  {
+    "id": "31182aaa-879c-4c1f-8570-c6113613dfdd",
+    "word": "Almost",
+    "translation": "Quase",
+    "pronunciation": "/ɔːl.ˈməʊst/",
+    "caseUses": "In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts.",
+    "relatedIds": []
+  },
+  {
+    "id": "30afee58-1e48-4972-8182-e8b31da082a7",
+    "word": "HIdden",
+    "translation": "Oculto",
+    "pronunciation": "/ˈhɪd(ə)n/",
+    "caseUses": "hidden treasure; hidden talents",
+    "relatedIds": []
+  },
+  {
+    "id": "94e1d5e1-9b03-4464-9fe0-77ce5317be49",
+    "word": "chatting",
+    "translation": "conversarmos...",
+    "pronunciation": "/ˈtʃætɪŋ/",
+    "caseUses": "I like to chat over a coffee with a friend.",
+    "relatedIds": []
   }
 ]
