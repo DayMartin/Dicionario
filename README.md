@@ -39,3 +39,10 @@ docker compose up --build
 ## Estrutura do Projeto
 - `server/`: API em Node/Express com banco de dados em arquivo JSON.
 - `client/`: Aplicação React com Vite, Tailwind-like CSS, Lucide Icons e Framer Motion.
+
+<img width="1216" height="838" alt="image" src="https://github.com/user-attachments/assets/478bbbba-1f33-4a5b-9c86-292c6751a9f3" />
+<img width="1216" height="838" alt="image" src="https://github.com/user-attachments/assets/b221078e-f23f-4ae7-a181-6a89d3a92c7d" />
+<img width="1216" height="838" alt="image" src="https://github.com/user-attachments/assets/57f9505e-8107-46d8-aac1-7265e5b8bae1" />
+
+
+
